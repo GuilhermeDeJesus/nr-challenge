@@ -4,9 +4,17 @@
   - CNPQ - http://www.cnpq.br/web/guest/licitacoes
   - SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
 
-To start the project, simply run the following Laravel Quickstart command:
+## To start the project, simply run the following Laravel Quickstart command:
   - php artisan serves
 
+
+## API used
+
+ - weidner/goutte version dev
+ 
+## Database
+ 
+  - none
 
 # This project was done using the Laravel framework
 
