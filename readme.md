@@ -5,6 +5,7 @@
  - SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
 
 ## To start the project, simply run the following Laravel Quickstart command:
+
  - php artisan serves
 
 
