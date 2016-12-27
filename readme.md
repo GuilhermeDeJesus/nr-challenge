@@ -1,11 +1,11 @@
 ## Web crawler to capture data from the following URLS:
 
-  - SEBRAE - http://www.sebrae.com.br/canaldofornecedor
-  - CNPQ - http://www.cnpq.br/web/guest/licitacoes
-  - SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
+ - SEBRAE - http://www.sebrae.com.br/canaldofornecedor
+ - CNPQ - http://www.cnpq.br/web/guest/licitacoes
+ - SSP-DF http://licitacoes.ssp.df.gov.br./index.php/licitacoes
 
 ## To start the project, simply run the following Laravel Quickstart command:
-  - php artisan serves
+ - php artisan serves
 
 
 ## API used
@@ -14,7 +14,7 @@
  
 ## Database
  
-  - none
+ - none
 
 # This project was done using the Laravel framework
 
